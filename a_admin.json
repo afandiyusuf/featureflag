@@ -1,3 +1,11 @@
 {
- 
+    "bluetooth-door-lock-admin": true,
+    "bluetooth-door-lock-guest": true,
+    "login-fb-android": true,
+    "login-fb-ios": true,
+    "eligible-user-bluetooth-admin": [
+        "yusuf.a@archipelagointernational.com",
+        "michael.w@archipelagointernational.com",
+        "a@b.com"
+    ]
 }
